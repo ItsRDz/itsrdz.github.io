@@ -1,2 +1,2 @@
-# ItsRDz.github.io
+# itsrdz.github.io
 My personal static website.
