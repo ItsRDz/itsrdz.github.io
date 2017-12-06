@@ -1,6 +1,8 @@
 # Richard Depaz
 
 ## Projects
+-[Cyber Mayhem](https://rdz.itch.io/cyber-mayhem): A Java-based shoot em' up video game.
+
 -[RDz Weight Journal](https://github.com/ItsRDz/RDzWeightJournal): A Java-based applet that helps keep track of your weight overtime.
 
 -[Z-Fit](https://github.com/ItsRDz/ZFit): A fitness app for iOS devices.
