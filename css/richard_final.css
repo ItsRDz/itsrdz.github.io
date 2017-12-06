@@ -44,8 +44,8 @@ body
 	background-image:-o-linear-gradient(left,white,#CCCCCC);
 	background-image:-ms-linear-gradient(left,white,#CCCCCC);
 	z-index:1;
-	opacity:1;
-    filter:alpha(opacity=100); /* For IE8 and earlier */
+	opacity:0.2;
+    filter:alpha(opacity=20); /* For IE8 and earlier */
 }
 
 .mainnav
