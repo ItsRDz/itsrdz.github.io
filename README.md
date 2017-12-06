@@ -1,4 +1,15 @@
-## Richard Depaz
+# Richard Depaz
+
+## Projects
+-[RDz Weight Journal](https://github.com/ItsRDz/RDzWeightJournal): A Java-based applet that helps keep track of your weight overtime.
+
+-[Z-Fit](https://github.com/ItsRDz/ZFit): A fitness app for iOS devices.
+
+-[Word Gag](https://github.com/ItsRDz/WordGag): A phrasal template word game for Android devices inspired by Mad Libs.
+
+-[Game Hub](https://github.com/ItsRDz/GameHub): A conceptual web application which provides gaming-related content such as reviews and news to video game enthusiasts while utilizing PHP and SQL to help manage the website's content and user data.
+
+-[Dreamtech Computing](https://github.com/ItsRDz/DreamtechComputing): A conceptual website for a company that purveys computing services.
 
 <!-- You can use the [editor on GitHub](https://github.com/ItsRDz/itsrdz.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
