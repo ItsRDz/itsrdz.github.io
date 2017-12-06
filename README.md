@@ -1,7 +1,7 @@
 # Richard Depaz
 
 ## Projects
--[Cyber Mayhem](https://rdz.itch.io/cyber-mayhem): A Java-based shoot em' up video game.
+-[Cyber Mayhem](https://rdz.itch.io/cyber-mayhem): A Java-based shoot em' up video game that utilizes the libGDX game development framework.
 
 -[RDz Weight Journal](https://github.com/ItsRDz/RDzWeightJournal): A Java-based applet that helps keep track of your weight overtime.
 
