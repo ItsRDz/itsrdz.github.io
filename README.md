@@ -7,7 +7,7 @@
 
 -[Z-Fit](https://github.com/ItsRDz/ZFit): A fitness app for iOS devices.
 
--[Word Gag](https://github.com/ItsRDz/WordGag): A phrasal template word game for Android devices inspired by Mad Libs.
+-[Word Gag](https://github.com/ItsRDz/WordGag): A phrasal template word game inspired by Mad Libs for Android devices.
 
 -[Game Hub](https://github.com/ItsRDz/GameHub): A conceptual web application which provides gaming-related content such as reviews and news to video game enthusiasts while utilizing PHP and SQL to help manage the website's content and user data.
 
