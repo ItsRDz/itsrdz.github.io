@@ -39,10 +39,10 @@ body
 	position:fixed;
 	width:100%;
 	text-align:left;
-	background-image:-webkit-linear-gradient(left,white,#CCCCCC);
+	/*background-image:-webkit-linear-gradient(left,white,#CCCCCC);
 	background-image:-moz-linear-gradient(left,white,#CCCCCC);
 	background-image:-o-linear-gradient(left,white,#CCCCCC);
-	background-image:-ms-linear-gradient(left,white,#CCCCCC);
+	background-image:-ms-linear-gradient(left,white,#CCCCCC);*/
 	z-index:1;
 	opacity:0.5;
     filter:alpha(opacity=50); /* For IE8 and earlier */
