@@ -1,18 +1,12 @@
 *
 {
-	color:black;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	color:#CCCCCC;
 }
 
 a
 {
 	text-decoration:none;
-	font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
-
-p, h1, h2, h3, h4, h5, h6
-{
-	font-family:Verdana, Geneva, Tahoma, sans-serif;
-	color:#CCCCCC;
 }
 
 body
@@ -20,15 +14,15 @@ body
 	margin:0px;
 }
 
-.newp
-{
-	font-size:20px;
-}
-
 #wrapper
 {
 	width:100%;
 	background-color:rgba(25, 25, 25, 25);
+}
+
+#wrapper h1, h2
+{
+	text-align:center;
 }
 
 #header
@@ -46,13 +40,19 @@ body
 	align-items: center;
 }
 
-#pagebanner
+#header a
+{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#banner
 {
 	background-image: url("/images/colorado.jpg");
 	width:100%;
 	min-height:650px;
 
-	/*Creates parallax scroll effect for background image*/
+	/*Parallax scroll effect*/
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -63,35 +63,35 @@ body
 {
 	position:relative;
 	width:90%;
-	font-size:16px;
-	margin-top:20px;
-	margin-bottom:20px;
 	margin-left:auto;
 	margin-right:auto;
-	padding-top:40px;
-	line-height:30px;
-	font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#social
+.section-container
+{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#footer
 {
 	background-color: black;
 	padding-top: 40px;
 	padding-bottom: 50px;
 }
 
-#social p, h2
+#footer p
 {
 	text-align: center;
 }
 
-#social a
+#footer a
 {
 	margin-left: 10px;
 	margin-right: 10px;
 }
 
-#socialmedia
+#social-media
 {
 	display: flex;
   	justify-content: center;
